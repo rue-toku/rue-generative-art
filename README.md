@@ -1,2 +1,2 @@
 # rue-generative-art
-みんなのProcessing
+みんなのProcessing(https://processing.org/download/)による作品をpushしてみよう.
