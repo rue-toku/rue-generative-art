@@ -12,4 +12,7 @@ def draw():
     rotate(angle)
     rect(0,0,100,100)
     angle += 0.1
+    
+    if mousePressed == True:
+        background(0)
         
